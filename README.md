@@ -1,2 +1,2 @@
-# zOS
-A custom made real time & minimal operating system 
+# pocketOS
+x86 Operating System 
