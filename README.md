@@ -7,8 +7,5 @@
 1.  ` ./build.sh` 
 
 
-## Blog Article : [ A basic OS to view hardware information (Modifying MikeOS)](/#)
+## Blog Article : [ A basic OS to view hardware information (Modifying MikeOS)](https://bhashith.medium.com/a-basic-os-to-view-hardware-information-modifying-mikeos-ee1beb0570d7)
 
-```sh
-127.0.0.1:8000
-```
