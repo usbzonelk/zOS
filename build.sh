@@ -5,6 +5,12 @@ if test "`whoami`" != "root" ; then
 	exit
 fi
 
+if [ ! -e ./disk_images ]
+then
+	
+	mkdir disk_images || exit
+fi
+
 
 if [ ! -e disk_images/zOS.flp ]
 then
